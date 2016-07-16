@@ -4,6 +4,19 @@
 list-style: none;
 }
 
+/*table===========================================================================*/
+table{
+		border-collapse: collapse;
+		text-align: center;
+		margin: 20px;
+}
+
+td, th{
+	border-collapse: collapse;
+ border: 2px solid black;
+ color:brown;text-align: center;
+}
+
 
 /*media queries==================================================================*/
 @media(min-width:769px){
