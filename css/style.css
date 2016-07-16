@@ -1,3 +1,11 @@
+
+
+.container li{
+list-style: none; 
+}
+
+
+/*media queries==================================================================*/
 @media(min-width:769px){
 .wrap{
   min-height:100vh;
