@@ -19,7 +19,15 @@ td, th{
  color:darkorange;text-align: center;
 }
 
+.clair-obscure{
+  border:2px dotted gold;
+}
 
+
+footer{
+  margin-bottom: 0;
+  height: 10%;
+}
 /*media queries==================================================================*/
 @media(min-width:769px){
 .wrap{
