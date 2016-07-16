@@ -1,16 +1,15 @@
-
+body{
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
 
 .navbar{
   font-weight: bold;
-}
-.container li{
-list-style: none;
 }
 
 /*table===========================================================================*/
 table{
 		border-collapse: collapse;
-		text-align: center;
 		margin: 20px;
 }
 
