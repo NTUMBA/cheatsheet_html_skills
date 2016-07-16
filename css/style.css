@@ -1,5 +1,8 @@
 
 
+.navbar{
+  font-weight: bold;
+}
 .container li{
 list-style: none;
 }
@@ -13,8 +16,8 @@ table{
 
 td, th{
 	border-collapse: collapse;
- border: 2px solid black;
- color:brown;text-align: center;
+ border: 1px solid black;
+ color:darkorange;text-align: center;
 }
 
 
