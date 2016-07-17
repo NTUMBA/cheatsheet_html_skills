@@ -28,6 +28,10 @@ footer{
   margin-bottom: 0;
   height: 10%;
 }
+.go-to{
+  text-align:justify;
+  font-size: 15px;
+}
 /*media queries==================================================================*/
 @media(min-width:769px){
 .wrap{
